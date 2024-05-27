@@ -48,6 +48,4 @@ The dataset used is the Boston housing dataset, which can be found at:
 - `house_price_prediction.py`: Main script to run the house price prediction model.
 - `requirements.txt`: List of required packages.
 
-## License
 
-This project is licensed under the MIT License.
